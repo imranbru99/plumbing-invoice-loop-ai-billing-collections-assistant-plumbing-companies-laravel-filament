@@ -1,0 +1,30 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "plumbing-invoice-loop-ai-billing-collections-assistant-plumbing-companies-laravel-filament",
+  "description": "PlumbingInvoiceLoop — AI Billing & Collections Assistant for Plumbing Companies. Automate draft invoices, payment reconcile, and approved reminders on service requests, technicians, and job tickets. Laravel Filament modular SaaS by Imran Ahmed.",
+  "topics": [
+    "laravel",
+    "filament",
+    "plumbing",
+    "plumbing-companies",
+    "billing",
+    "collections",
+    "accounts-receivable",
+    "invoicing",
+    "field-service",
+    "job-tickets",
+    "ai-automation",
+    "saas",
+    "docker",
+    "php",
+    "quickbooks",
+    "servicetitan",
+    "jobber",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/contact"
+}
